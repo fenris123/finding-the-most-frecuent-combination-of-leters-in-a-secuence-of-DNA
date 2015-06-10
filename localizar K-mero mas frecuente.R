@@ -4,7 +4,7 @@
 
 
 
-z <- function (secuencia, longitud){
+frecuent <- function (secuencia, longitud){
      
      g<- count (secuencia,longitud)    #### this will give you all posible combination of of legth K 
      
